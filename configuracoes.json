@@ -1,5 +1,4 @@
-{
-   "config":[
+[
       "https://jpa.rmater.org.br/apiJPA",
       "https://raw.githubusercontent.com/otaviogrrd/barracas/master/logo.png",
 	  "Nome da Festa",
@@ -13,4 +12,3 @@
       "https://raw.githubusercontent.com/otaviogrrd/barracas/master/barracas_pax.png",
 	  "Nome da Festa 3"
    ] 
-}
