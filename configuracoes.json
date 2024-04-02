@@ -1,4 +1,12 @@
 {
+	"config":[
+	{
 	"urlBase": "https://jpa.rmater.org.br/apiJPA",
 	"urlLogo": "https://raw.githubusercontent.com/otaviogrrd/barracas/master/logo.png"
+	},
+	{
+	"urlBase": "https://jpa.rmater.org.br/apiJPA",
+	"urlLogo": "https://raw.githubusercontent.com/otaviogrrd/barracas/master/barracas_pax.png"
+	}
+	]
 }
