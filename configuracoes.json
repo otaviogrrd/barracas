@@ -2,16 +2,16 @@
 	{
 	"url": "https://jpa.rmater.org.br/apiJPA",
 	"logo": "https://raw.githubusercontent.com/otaviogrrd/barracas/master/logo.png",
-	"nome": "Nome do Evento 1"
+	"nome": "Evento teste"
 	},
 	{
 	"url": "https://jpa.rmater.org.br/apiJPA",
 	"logo": "https://raw.githubusercontent.com/otaviogrrd/barracas/master/barracas_pax.png",
-	"nome": "Nome do Evento 2"
+	"nome": ""
 	},
 	{
 	"url": "https://jpa.rmater.org.br/apiJPA",
-	"logo": "https://raw.githubusercontent.com/otaviogrrd/barracas/master/barracas_pax.png",
-	"nome": "Nome do Evento 3"
+	"logo": "https://raw.githubusercontent.com/otaviogrrd/barracas/master/logo_pspa.png",
+	"nome": "Paróquia São Paulo Apóstolo"
 	}
 ]
