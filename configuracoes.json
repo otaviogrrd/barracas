@@ -1,6 +1,16 @@
 [
 	{
 	"url": "https://jpa.rmater.org.br/apiJPA",
+	"logo": "https://raw.githubusercontent.com/otaviogrrd/barracas/master/logo.png",
+	"nome": "Nome do Evento 1"
+	},
+	{
+	"url": "https://jpa.rmater.org.br/apiJPA",
+	"logo": "https://raw.githubusercontent.com/otaviogrrd/barracas/master/barracas_pax.png",
+	"nome": "Nome do Evento 2"
+	},
+	{
+	"url": "https://jpa.rmater.org.br/apiJPA",
 	"logo": "https://raw.githubusercontent.com/otaviogrrd/barracas/master/barracas_pax.png",
 	"nome": "Nome do Evento 3"
 	}
