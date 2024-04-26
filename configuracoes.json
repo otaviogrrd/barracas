@@ -1,12 +1,12 @@
 [
 	{
 	"url": "https://jpa.rmater.org.br/apiJPA",
-	"logo": "https://raw.githubusercontent.com/otaviogrrd/barracas/master/barracas_pax.png",
+	"logo": "https://raw.githubusercontent.com/otaviogrrd/barracas/master/img/barracas_pax.png",
 	"nome": ""
 	},
 	{
 		"url": "https://imaculadaconceicao.paxservicos.com.br/apiJPA",
-		"logo": "https://raw.githubusercontent.com/otaviogrrd/barracas/master/logo_forro_imaculada.png",
+		"logo": "https://raw.githubusercontent.com/otaviogrrd/barracas/master/img/imaculadaconceicao.png",
 		"nome": ""
 	}
 ]
