@@ -1,7 +1,18 @@
 [
 	{
+<<<<<<< HEAD
 	"url": "https://barracas.paxservicos.com.br/apiJPA",
 	"logo": "https://raw.githubusercontent.com/otaviogrrd/barracas/master/img/barracas_pax.png",
 	"nome": "Treinamento PAX"
+=======
+	"url": "https://jpa.rmater.org.br/apiJPA",
+	"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/barracas_pax.png",
+	"nome": ""
+	},
+	{
+		"url": "https://imaculadaconceicao.paxservicos.com.br",
+		"logo": "https://raw.githubusercontent.com/pax-servicos/barracasConfig/master/img/imaculadaconceicao.png",
+		"nome": "Concurso de Forró"
+>>>>>>> 5e9bdf9 (Evento Imaculada Conceicao Sobradinho)
 	}
 ]
